@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to the lair of *spacegospod* 😎
 
-<!--
-**spacegospod/spacegospod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Golang and vSphere, that is why..
 
-Here are some ideas to get you started:
+| I maintain                                                                            | 
+| --------                                                                              |
+| [terraform-provider-vcf](https://github.com/vmware/terraform-provider-vcf)            |
+| [terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) |
+| [vcf-sdk-go](https://github.com/vmware/vcf-sdk-go)                                    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| And I occasionally hang out at                                                        | 
+| --------                                                                              |
+| [govmomi](https://github.com/vmware/govmomi)                                          |
